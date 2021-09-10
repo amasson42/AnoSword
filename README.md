@@ -1,3 +1,6 @@
 # AnoSword
 
-A description of this package.
+Another annoying discord bot
+
+# Usage
+
